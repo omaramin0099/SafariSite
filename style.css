@@ -55,3 +55,27 @@ hr{
 .review .col{
     margin: 15px;
 }
+
+.contact .col-8{
+    padding: 30px 20px;
+}
+.nav-tabs li{
+    margin: auto;
+}
+.footer h4{
+    color: white;
+}
+.footer ul{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 2px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #737373;
+}
+.footer a:hover{
+    text-decoration: underline;
+    color: #fff;
+}
