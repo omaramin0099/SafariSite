@@ -79,3 +79,7 @@ hr{
     text-decoration: underline;
     color: #fff;
 }
+h1{
+    font-family:"Bellefair", serif;
+    font-weight: bold;
+}
