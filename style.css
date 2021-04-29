@@ -1,0 +1,57 @@
+.navbar{
+background-color:rgba(0,0,0,0.7);
+}
+.navbar-brand img{
+    border-radius: 1000px;
+}
+
+.carousel img{
+    filter: brightness(65%);
+}
+
+.cover{
+    width: 100%;
+    height: 340px;
+    background-color: rgba(0,0,0,0.4);
+    padding: 60px 10px;
+}
+.cover:hover{
+    transition: 0.7s;
+    background-color: rgba(0,0,0,0);
+}
+.cover p{
+    margin-top: 30px;
+}
+.cover button{
+    margin-top: 50px;
+    border-radius: 100px;
+
+}
+.cover button:hover{
+    background-color: rgb(90, 85, 85);
+    color: white;
+}
+.bok .col-lg-3{
+    padding: 2px;
+    color: white;
+}
+.bok .row{
+    margin: 5px 0px;
+}
+.content{
+    height: 340px;
+}
+hr{
+    height: 1px;
+    border-top: 2px solid black;
+    margin-top: 100px;
+}
+.review .col{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.review .col{
+    margin: 15px;
+}
